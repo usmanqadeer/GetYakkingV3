@@ -1,0 +1,32 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GetYakkingV2.MainPage">
+    <Grid x:Name="MainGrid" Padding="20">
+        <!-- Flexible Rows for Buttons and Centering Vertically -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Classic Button Wrapped in Frame for Shadow -->
+        <Frame Grid.Row="1" Margin="10" Padding="0" HasShadow="True" CornerRadius="0" BackgroundColor="Transparent">
+            <Button Text="Classic" Clicked="OnClassicClicked" HeightRequest="120" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="Large" FontAttributes="Bold" BackgroundColor="#3e89cf"/>
+        </Frame>
+
+        <!-- Couples Button Wrapped in Frame for Shadow -->
+        <Frame Grid.Row="2" Margin="10" Padding="0" HasShadow="True" CornerRadius="0" BackgroundColor="Transparent">
+            <Button Text="Couples" Clicked="OnCouplesClicked" HeightRequest="120" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="Large" FontAttributes="Bold" BackgroundColor="#fb9b0d"/>
+        </Frame>
+
+        <!-- Risky +18 Button Wrapped in Frame for Shadow -->
+        <Frame Grid.Row="3" Margin="10" Padding="0" HasShadow="True" CornerRadius="0" BackgroundColor="Transparent">
+            <Button Text="Risky +18" Clicked="OnRiskyClicked" HeightRequest="120" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="Large" FontAttributes="Bold" BackgroundColor="#ef2424"/>
+        </Frame>
+
+        <!-- Added Label for displaying messages -->
+        <Label x:Name="messageLabel" Opacity="0" Grid.Row="4" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+    </Grid>
+</ContentPage>

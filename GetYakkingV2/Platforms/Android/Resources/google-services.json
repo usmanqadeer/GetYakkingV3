@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74427654714",
+    "project_id": "getyakking",
+    "storage_bucket": "getyakking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74427654714:android:18cc5061c94512c7600b03",
+        "android_client_info": {
+          "package_name": "com.GetYakking.GetYakkingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79nUYopCpLdBMUVVsTKgLXJHEmlADQxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

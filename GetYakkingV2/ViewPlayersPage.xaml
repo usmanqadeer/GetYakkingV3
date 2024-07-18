@@ -1,0 +1,24 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GetYakkingV2.ViewPlayersPage"
+             BackgroundColor="#7ABFFF">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <ListView x:Name="playersList" ItemTapped="OnPlayerTapped" WidthRequest="200" SeparatorVisibility="None">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame Padding="10" CornerRadius="10" BackgroundColor="White" Margin="5" HasShadow="True">
+                            <Grid>
+                                <Label Text="{Binding NameAndScore}" 
+                                       HorizontalOptions="Center" 
+                                       VerticalOptions="Center" 
+                                       TextColor="Black"
+                                       FontAttributes="Bold"/>
+                            </Grid>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

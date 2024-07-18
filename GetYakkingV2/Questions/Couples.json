@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "category": "Relationship",
+    "QuestionText": "What do you think makes our relationship unique?",
+    "rank": 0
+  },
+  {
+    "id": "2",
+    "category": "Relationship",
+    "QuestionText": "What is your favorite memory of us together?",
+    "rank": 0
+  },
+  {
+    "id": "3",
+    "category": "Future",
+    "QuestionText": "Where do you see us in five years?",
+    "rank": 0
+  },
+  {
+    "id": "4",
+    "category": "Feelings",
+    "QuestionText": "What is something you wish I understood better about you?",
+    "rank": 0
+  },
+  {
+    "id": "5",
+    "category": "Values",
+    "QuestionText": "What values do you think are most important for us to share?",
+    "rank": 0
+  },
+  {
+    "id": "6",
+    "category": "Growth",
+    "QuestionText": "How have you grown as a person since we met?",
+    "rank": 0
+  },
+  {
+    "id": "7",
+    "category": "Relationship",
+    "QuestionText": "What do you think is the key to a lasting relationship?",
+    "rank": 0
+  },
+  {
+    "id": "8",
+    "category": "Dreams",
+    "QuestionText": "What are your biggest dreams and aspirations?",
+    "rank": 0
+  },
+  {
+    "id": "9",
+    "category": "Conflict",
+    "QuestionText": "How do you prefer to handle conflict?",
+    "rank": 0
+  },
+  {
+    "id": "10",
+    "category": "Support",
+    "QuestionText": "How can I better support you in our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "11",
+    "category": "Trust",
+    "QuestionText": "What does trust mean to you in a relationship?",
+    "rank": 0
+  },
+  {
+    "id": "12",
+    "category": "Intimacy",
+    "QuestionText": "What makes you feel most loved and appreciated?",
+    "rank": 0
+  },
+  {
+    "id": "13",
+    "category": "Past",
+    "QuestionText": "What is a challenge we've faced that made us stronger?",
+    "rank": 0
+  },
+  {
+    "id": "14",
+    "category": "Family",
+    "QuestionText": "What role do you see family playing in our future?",
+    "rank": 0
+  },
+  {
+    "id": "15",
+    "category": "Personal",
+    "QuestionText": "What personal goals do you want to achieve in the next year?",
+    "rank": 0
+  },
+  {
+    "id": "16",
+    "category": "Growth",
+    "QuestionText": "How can we grow together as a couple?",
+    "rank": 0
+  },
+  {
+    "id": "17",
+    "category": "Happiness",
+    "QuestionText": "What brings you the most joy in our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "18",
+    "category": "Communication",
+    "QuestionText": "How do you feel about the way we communicate?",
+    "rank": 0
+  },
+  {
+    "id": "19",
+    "category": "Future",
+    "QuestionText": "What are your thoughts on having children?",
+    "rank": 0
+  },
+  {
+    "id": "20",
+    "category": "Values",
+    "QuestionText": "What are the top three values you want to pass on to our children?",
+    "rank": 0
+  },
+  {
+    "id": "21",
+    "category": "Adventure",
+    "QuestionText": "What adventures do you want to experience together?",
+    "rank": 0
+  },
+  {
+    "id": "22",
+    "category": "Growth",
+    "QuestionText": "What have you learned from our toughest moments?",
+    "rank": 0
+  },
+  {
+    "id": "23",
+    "category": "Personal",
+    "QuestionText": "What part of your life do you feel needs more attention?",
+    "rank": 0
+  },
+  {
+    "id": "24",
+    "category": "Relationship",
+    "QuestionText": "What is your favorite way for us to spend time together?",
+    "rank": 0
+  },
+  {
+    "id": "25",
+    "category": "Past",
+    "QuestionText": "How has your view on love changed since we met?",
+    "rank": 0
+  },
+  {
+    "id": "26",
+    "category": "Communication",
+    "QuestionText": "What can we do to improve our communication?",
+    "rank": 0
+  },
+  {
+    "id": "27",
+    "category": "Future",
+    "QuestionText": "What are your hopes for our relationship in the future?",
+    "rank": 0
+  },
+  {
+    "id": "28",
+    "category": "Family",
+    "QuestionText": "How important is it for you to spend time with family?",
+    "rank": 0
+  },
+  {
+    "id": "29",
+    "category": "Support",
+    "QuestionText": "When do you feel most supported by me?",
+    "rank": 0
+  },
+  {
+    "id": "30",
+    "category": "Growth",
+    "QuestionText": "What areas do you think we need to grow in as a couple?",
+    "rank": 0
+  },
+  {
+    "id": "31",
+    "category": "Trust",
+    "QuestionText": "How do you rebuild trust after it's been broken?",
+    "rank": 0
+  },
+  {
+    "id": "32",
+    "category": "Dreams",
+    "QuestionText": "What are your biggest fears and how can I help with them?",
+    "rank": 0
+  },
+  {
+    "id": "33",
+    "category": "Intimacy",
+    "QuestionText": "What does intimacy mean to you?",
+    "rank": 0
+  },
+  {
+    "id": "34",
+    "category": "Personal",
+    "QuestionText": "How do you define success for yourself?",
+    "rank": 0
+  },
+  {
+    "id": "35",
+    "category": "Values",
+    "QuestionText": "What core values do you want us to always uphold?",
+    "rank": 0
+  },
+  {
+    "id": "36",
+    "category": "Future",
+    "QuestionText": "What are your financial goals for our future?",
+    "rank": 0
+  },
+  {
+    "id": "37",
+    "category": "Happiness",
+    "QuestionText": "What can we do to bring more joy into our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "38",
+    "category": "Conflict",
+    "QuestionText": "What is the best way to resolve disagreements?",
+    "rank": 0
+  },
+  {
+    "id": "39",
+    "category": "Support",
+    "QuestionText": "How can we better support each other's dreams?",
+    "rank": 0
+  },
+  {
+    "id": "40",
+    "category": "Growth",
+    "QuestionText": "What are the most important lessons you've learned from past relationships?",
+    "rank": 0
+  },
+  {
+    "id": "41",
+    "category": "Values",
+    "QuestionText": "What ethical values are most important to you?",
+    "rank": 0
+  },
+  {
+    "id": "42",
+    "category": "Future",
+    "QuestionText": "How do you envision our retirement together?",
+    "rank": 0
+  },
+  {
+    "id": "43",
+    "category": "Communication",
+    "QuestionText": "What topics are difficult for us to discuss?",
+    "rank": 0
+  },
+  {
+    "id": "44",
+    "category": "Intimacy",
+    "QuestionText": "What can we do to strengthen our emotional connection?",
+    "rank": 0
+  },
+  {
+    "id": "45",
+    "category": "Past",
+    "QuestionText": "What experiences from your past have shaped who you are?",
+    "rank": 0
+  },
+  {
+    "id": "46",
+    "category": "Dreams",
+    "QuestionText": "If money was no object, what would we do?",
+    "rank": 0
+  },
+  {
+    "id": "47",
+    "category": "Personal",
+    "QuestionText": "What do you consider your greatest achievement?",
+    "rank": 0
+  },
+  {
+    "id": "48",
+    "category": "Values",
+    "QuestionText": "What traditions do you want to create together?",
+    "rank": 0
+  },
+  {
+    "id": "49",
+    "category": "Future",
+    "QuestionText": "What are your thoughts on balancing work and family life?",
+    "rank": 0
+  },
+  {
+    "id": "50",
+    "category": "Happiness",
+    "QuestionText": "What small things bring you happiness daily?",
+    "rank": 0
+  },
+  {
+    "id": "51",
+    "category": "Communication",
+    "QuestionText": "How can we be more open and honest with each other?",
+    "rank": 0
+  },
+  {
+    "id": "52",
+    "category": "Future",
+    "QuestionText": "What do you think our biggest challenges will be?",
+    "rank": 0
+  },
+  {
+    "id": "53",
+    "category": "Relationship",
+    "QuestionText": "What makes you feel most connected to me?",
+    "rank": 0
+  },
+  {
+    "id": "54",
+    "category": "Intimacy",
+    "QuestionText": "What can I do to make you feel more loved?",
+    "rank": 0
+  },
+  {
+    "id": "55",
+    "category": "Support",
+    "QuestionText": "How do you feel about the support I give you?",
+    "rank": 0
+  },
+  {
+    "id": "56",
+    "category": "Growth",
+    "QuestionText": "What can we do to keep growing individually and together?",
+    "rank": 0
+  },
+  {
+    "id": "57",
+    "category": "Values",
+    "QuestionText": "What values should we prioritize in our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "58",
+    "category": "Personal",
+    "QuestionText": "What personal qualities do you admire in me?",
+    "rank": 0
+  },
+  {
+    "id": "59",
+    "category": "Dreams",
+    "QuestionText": "What dream have you not pursued yet and why?",
+    "rank": 0
+  },
+  {
+    "id": "60",
+    "category": "Relationship",
+    "QuestionText": "What do you think is our greatest strength as a couple?",
+    "rank": 0
+  },
+  {
+    "id": "61",
+    "category": "Trust",
+    "QuestionText": "How do you build and maintain trust in a relationship?",
+    "rank": 0
+  },
+  {
+    "id": "62",
+    "category": "Future",
+    "QuestionText": "What financial goals should we set together?",
+    "rank": 0
+  },
+  {
+    "id": "63",
+    "category": "Past",
+    "QuestionText": "What past experiences have shaped your views on relationships?",
+    "rank": 0
+  },
+  {
+    "id": "64",
+    "category": "Happiness",
+    "QuestionText": "What can we do to create more happy memories together?",
+    "rank": 0
+  },
+  {
+    "id": "65",
+    "category": "Intimacy",
+    "QuestionText": "What is one thing we could do to be more intimate?",
+    "rank": 0
+  },
+  {
+    "id": "66",
+    "category": "Support",
+    "QuestionText": "How do you like to be comforted when you're upset?",
+    "rank": 0
+  },
+  {
+    "id": "67",
+    "category": "Values",
+    "QuestionText": "What core beliefs do you think we should always agree on?",
+    "rank": 0
+  },
+  {
+    "id": "68",
+    "category": "Future",
+    "QuestionText": "What are your top priorities for our future together?",
+    "rank": 0
+  },
+  {
+    "id": "69",
+    "category": "Growth",
+    "QuestionText": "How can we help each other achieve personal goals?",
+    "rank": 0
+  },
+  {
+    "id": "70",
+    "category": "Conflict",
+    "QuestionText": "How do you think we handle disagreements?",
+    "rank": 0
+  },
+  {
+    "id": "71",
+    "category": "Personal",
+    "QuestionText": "What personal challenge are you currently facing?",
+    "rank": 0
+  },
+  {
+    "id": "72",
+    "category": "Values",
+    "QuestionText": "What traditions from your family do you want to continue?",
+    "rank": 0
+  },
+  {
+    "id": "73",
+    "category": "Relationship",
+    "QuestionText": "What is your favorite thing about our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "74",
+    "category": "Support",
+    "QuestionText": "What does being a supportive partner mean to you?",
+    "rank": 0
+  },
+  {
+    "id": "75",
+    "category": "Dreams",
+    "QuestionText": "What dream do you have for us as a couple?",
+    "rank": 0
+  },
+  {
+    "id": "76",
+    "category": "Future",
+    "QuestionText": "What kind of future do you envision for us?",
+    "rank": 0
+  },
+  {
+    "id": "77",
+    "category": "Happiness",
+    "QuestionText": "What small things can we do to bring more happiness?",
+    "rank": 0
+  },
+  {
+    "id": "78",
+    "category": "Intimacy",
+    "QuestionText": "What makes you feel closest to me?",
+    "rank": 0
+  },
+  {
+    "id": "79",
+    "category": "Personal",
+    "QuestionText": "What personal growth are you most proud of?",
+    "rank": 0
+  },
+  {
+    "id": "80",
+    "category": "Communication",
+    "QuestionText": "How can we improve our daily communication?",
+    "rank": 0
+  },
+  {
+    "id": "81",
+    "category": "Growth",
+    "QuestionText": "What mutual goals should we set for our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "82",
+    "category": "Future",
+    "QuestionText": "What are your thoughts on where we should live?",
+    "rank": 0
+  },
+  {
+    "id": "83",
+    "category": "Values",
+    "QuestionText": "What moral values are most important to you?",
+    "rank": 0
+  },
+  {
+    "id": "84",
+    "category": "Happiness",
+    "QuestionText": "What is the happiest moment we've shared?",
+    "rank": 0
+  },
+  {
+    "id": "85",
+    "category": "Support",
+    "QuestionText": "How do you feel about the balance of support in our relationship?",
+    "rank": 0
+  },
+  {
+    "id": "86",
+    "category": "Personal",
+    "QuestionText": "What part of your personality do you value the most?",
+    "rank": 0
+  },
+  {
+    "id": "87",
+    "category": "Conflict",
+    "QuestionText": "How can we ensure healthy conflict resolution?",
+    "rank": 0
+  },
+  {
+    "id": "88",
+    "category": "Dreams",
+    "QuestionText": "What personal dreams do you want to achieve together?",
+    "rank": 0
+  },
+  {
+    "id": "89",
+    "category": "Future",
+    "QuestionText": "What steps can we take to ensure a secure future?",
+    "rank": 0
+  },
+  {
+    "id": "90",
+    "category": "Values",
+    "QuestionText": "What shared values are crucial for us?",
+    "rank": 0
+  },
+  {
+    "id": "91",
+    "category": "Growth",
+    "QuestionText": "What skills can we develop together?",
+    "rank": 0
+  },
+  {
+    "id": "92",
+    "category": "Communication",
+    "QuestionText": "What do you think is our communication strength?",
+    "rank": 0
+  },
+  {
+    "id": "93",
+    "category": "Happiness",
+    "QuestionText": "What activities bring us the most joy?",
+    "rank": 0
+  },
+  {
+    "id": "94",
+    "category": "Future",
+    "QuestionText": "What long-term plans do you think we should prioritize?",
+    "rank": 0
+  },
+  {
+    "id": "95",
+    "category": "Support",
+    "QuestionText": "What is your idea of a supportive relationship?",
+    "rank": 0
+  },
+  {
+    "id": "96",
+    "category": "Personal",
+    "QuestionText": "What aspect of your life are you most passionate about?",
+    "rank": 0
+  },
+  {
+    "id": "97",
+    "category": "Values",
+    "QuestionText": "What are the most important values we should teach our kids?",
+    "rank": 0
+  },
+  {
+    "id": "98",
+    "category": "Growth",
+    "QuestionText": "What are the most important ways we can grow together?",
+    "rank": 0
+  },
+  {
+    "id": "99",
+    "category": "Dreams",
+    "QuestionText": "What shared dreams do you want to make a reality?",
+    "rank": 0
+  },
+  {
+    "id": "100",
+    "category": "Future",
+    "QuestionText": "What are your thoughts on our future travel plans?",
+    "rank": 0
+  }
+]

@@ -1,0 +1,65 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GetYakkingV2.RiskyPage"
+             BackgroundColor="#FF4242">
+
+    <StackLayout>
+        <!-- Horizontal layout for Rules button -->
+        <HorizontalStackLayout Spacing="5" HorizontalOptions="Center" VerticalOptions="Center" Margin="10,10,10,0">
+            <BoxView HorizontalOptions="FillAndExpand" />
+            <Frame Padding="0" HasShadow="True" CornerRadius="5">
+                <Button x:Name="rulesButton" Text="Rules" BackgroundColor="white" TextColor="#3e89cf" Clicked="OnRulesClicked" WidthRequest="100" HeightRequest="50" />
+            </Frame>
+        </HorizontalStackLayout>
+
+        <!-- The rest of your page content -->
+        <Grid VerticalOptions="FillAndExpand" HorizontalOptions="Center">
+            <!-- Modified Rules Card Image -->
+            <Image x:Name="rulesImage" Source="backview.png" 
+                   HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" 
+                   HeightRequest="330" WidthRequest="250" Aspect="AspectFit" 
+                   IsVisible="{Binding Source={x:Reference rulesLabel}, Path=IsVisible}" Margin="10">
+                <Image.Shadow>
+                    <Shadow Brush="Black" Offset="10,10" Opacity="0.6" Radius="10"/>
+                </Image.Shadow>
+            </Image>
+
+            <!-- Modified Rules Label -->
+            <Label x:Name="rulesLabel" Text="Welcome to +18 Get Yakking in this mode for each card the yaks will decide the yaks with the worst answers must take a drink" 
+                   TextColor="Black" HorizontalTextAlignment="Center" Margin="25,25,25,25" 
+                   IsVisible="False" HorizontalOptions="Center" VerticalOptions="Center" 
+                   HeightRequest="250" WidthRequest="190" FontSize="Small"/>
+
+            <Grid x:Name="card" HeightRequest="330" WidthRequest="250" Margin="10">
+                <Grid x:Name="frontView" IsVisible="True">
+                    <Image Source="classic_cover.png" 
+                           Aspect="AspectFit" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                    <Grid.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnCardTapped"/>
+                    </Grid.GestureRecognizers>
+                </Grid>
+
+                <Grid x:Name="backView" IsVisible="False">
+                    <Image Source="backview.png"
+                           Aspect="AspectFit" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                    <Label x:Name="questionLabel"
+                           Text=""
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           FontSize="Small"
+                           HeightRequest="250" 
+                           WidthRequest="150"
+                           TextColor="Black" />
+                    <Grid.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnBackCardTapped"/>
+                    </Grid.GestureRecognizers>
+                </Grid>
+
+                <Grid.Shadow>
+                    <Shadow Brush="black" Offset="10,10" Opacity="0.6" Radius="10"/>
+                </Grid.Shadow>
+            </Grid>
+
+        </Grid>
+    </StackLayout>
+</ContentPage>
